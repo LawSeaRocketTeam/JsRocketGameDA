@@ -1,5 +1,5 @@
 @echo off    
 echo Export Start...  
-pip install xlrd
+pip3 install xlrd
 echo Export Finish
 pause 
